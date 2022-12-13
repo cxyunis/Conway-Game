@@ -1,1 +1,2 @@
-# Conway-Game
+#Game 3 Team Project
+#
